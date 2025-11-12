@@ -12,6 +12,6 @@
 <body 1> This was my attempt of trying to get real world experiance with a SEIM check it out here : (https://github.com/michaelnoobz/MyFirstSEIM) </body>
 <h2>I have been exprimenting with LLMs </h2>
 <h2> Honey Pot!!!</h2>
-<body 1> Im going to be honest, i am limited on funds :(. how ever azure lets you do som stuff for free!!! so i set up a honey pot and left some ports open like ssh and rpd and kept a log using sentinal to log how many people attacked it and where from check it out!!</body>
+<body 1> Im going to be honest, i am limited on funds :(. how ever azure lets you do some stuff for free!!! so i set up a honey pot and left some ports open like ssh and rpd and kept a log using sentinal to log how many people attacked it and where from check it out!!</body>
 <h2>Connect with me!!!</h2>
 <Body>Linkedin:www.linkedin.com/in/michael-lannen-053588167 </Body>
