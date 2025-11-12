@@ -5,6 +5,7 @@
 <body 1> They had me do a Capture the flag for a screening and, i found some spots I am lacking as well as them saying i needed a bit more experience. So for a little while to get more experince, I am going to work on Parsing information for huge logs, downloading Splunk free, python scripting!!and possibly mock playbooks? just to get more exposure to it. </body> 
 <h2> Projects!!!!!</h2>
 <h3> Mock Playbooks </h3>
+<body> work in progress!! </body>
 <h3>GoPhish</h3>
 <body 1 > the First project i was able to do was create a phishing campaign for my current company. here is the link:(https://github.com/michaelnoobz/Gophish-)</body>
 <h3> Microsoft Azure Honeypot<h3>
