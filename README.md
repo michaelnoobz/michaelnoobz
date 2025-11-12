@@ -1,7 +1,9 @@
 <h1> Hey My Name is Michael !! i am new to this so please forgive me in my mistakes and clunkyness!! welcome to my page.</h1>
-<h1>Hiatus!!</h1>
-<body 1> hey yall i took a little bit of a break after graduating college!! sorry i have been a bit behind. I work a full time job and do delivery services most of the time running 3 apps at the same time. all the while taking care of a 3 year old at the same times!!i still listen to audio books and watch some learning videos in my spare time!</body>
+<h1>IM BACK!!!!</h1>
+<body 1> During my Hiatus i got interviewed at a top company... didnt make the cut! but heres to more learning and getting more experience!! </body>
+<body 1> They had me do a Capture the flag for a screening and i found some spots im lacking as well as them saying i needed a bit more experience. So for a little while im going to work on Parseing infromation for huge logs, downloading splunk free, python scripting!!and possibly mock play books? just to get more exposure to it. </body> 
 <h2> Projects!!!!!</h2>
+<h3> Mock Playbooks </h3>
 <h3>GoPhish</h3>
 <body 1 > the First project i was able to do was create a phishing campaign for my current company. here is the link:(https://github.com/michaelnoobz/Gophish-)</body>
 <h3> Microsoft Azure Honeypot<h3>
