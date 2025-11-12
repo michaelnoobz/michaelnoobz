@@ -1,7 +1,8 @@
 <h1> Hey My Name is Michael !! i am new to this so please forgive me in my mistakes and clunkyness!! welcome to my page.</h1>
 <h1>IM BACK!!!!</h1>
 <body 1> During my Hiatus i got interviewed at a top company... didnt make the cut! but heres to more learning and getting more experience!! </body>
-<body 1> They had me do a Capture the flag for a screening and i found some spots im lacking as well as them saying i needed a bit more experience. So for a little while im going to work on Parseing infromation for huge logs, downloading splunk free, python scripting!!and possibly mock play books? just to get more exposure to it. </body> 
+
+<body 1> They had me do a Capture the flag for a screening and, i found some spots I am lacking as well as them saying i needed a bit more experience. So for a little while to get more experince, I am going to work on Parsing information for huge logs, downloading Splunk free, python scripting!!and possibly mock playbooks? just to get more exposure to it. </body> 
 <h2> Projects!!!!!</h2>
 <h3> Mock Playbooks </h3>
 <h3>GoPhish</h3>
