@@ -6,6 +6,11 @@
 <h2> Projects!!!!!</h2>
 <h3> Mock Playbooks </h3>
 <body> work in progress!! </body>
+<h3>  </h3>
+<h3> Powershell Scripting Project  </h3>
+<body> work in progress!! </body>
+<h3> KQL/Splunk Query Library (Scripting Focus) </h3>
+<body> work in progress!! </body>
 <h3>GoPhish</h3>
 <body 1 > the First project i was able to do was create a phishing campaign for my current company. here is the link:(https://github.com/michaelnoobz/Gophish-)</body>
 <h3> Microsoft Azure Honeypot<h3>
