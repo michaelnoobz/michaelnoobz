@@ -14,7 +14,7 @@ i looked for a college that was quick and gave me foundations and some certs. I 
 
 <h2> Projects!!!!!</h2>
 <h3> Table Top Excerzises templates and ideas for Current role</h3>
-<body> i figured i would share what i do on a quarterly basis  here is the link "https://github.com/michaelnoobz/DRP-Table-Tops"</body>
+<body> i figured i would share what i do on a quarterly basis  here is the link (https://github.com/michaelnoobz/DRP-Table-Tops)</body>
 <h3> Mock Playbooks </h3>
 <body> work in progress!! </body>
 <h3>  </h3>
