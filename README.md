@@ -26,7 +26,11 @@ i looked for a college that was quick and gave me foundations and some certs. I 
 <body 1 > the First project i was able to do was create a phishing campaign for my current company. here is the link:(https://github.com/michaelnoobz/Gophish-)</body>
 <h3> Microsoft Azure Honeypot<h3>
 <body 1> This was my attempt of trying to get real world experiance with a SEIM check it out here : (https://github.com/michaelnoobz/MyFirstSEIM) </body>
+<body 1> I have been messing about on PICOCTF trying to keep my skills sharp i made a few python programs to help find human readable text with in meta data check it out!!! I did have some help with My Local LLM but the code for the .py is there thank you !! </body>
 <h2>I have been exprimenting with LLMs </h2>
+<body> dolphin </body>
+<body> mistral </body>
+<body>Large online LLMS like Gemini, Copilot, ChatGPT, etc... </body>
 <h2> Honey Pot!!!</h2>
 <body 1> Im going to be honest, i am limited on funds :(. how ever azure lets you do some stuff for free!!! so i set up a honey pot and left some ports open like ssh and rpd and kept a log using sentinal to log how many people attacked it and where from check it out!!</body>
 <h2>Connect with me!!!</h2>
