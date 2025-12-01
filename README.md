@@ -26,6 +26,7 @@ i looked for a college that was quick and gave me foundations and some certs. I 
 <body 1 > the First project i was able to do was create a phishing campaign for my current company. here is the link:(https://github.com/michaelnoobz/Gophish-)</body>
 <h3> Microsoft Azure Honeypot<h3>
 <body 1> This was my attempt of trying to get real world experiance with a SEIM check it out here : (https://github.com/michaelnoobz/MyFirstSEIM) </body>
+<H1> Pico CTF/ Automation </H1>
 <body 1> I have been messing about on PICOCTF trying to keep my skills sharp i made a few python programs to help find human readable text with in meta data check it out!!! I did have some help with My Local LLM but the code for the .py is there thank you !! </body>
 <h2>I have been exprimenting with LLMs </h2>
 <body> dolphin </body>
