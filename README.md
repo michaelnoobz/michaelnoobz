@@ -27,7 +27,7 @@ i looked for a college that was quick and gave me foundations and some certs. I 
 <h3> Microsoft Azure Honeypot<h3>
 <body 1> This was my attempt of trying to get real world experiance with a SEIM check it out here : (https://github.com/michaelnoobz/MyFirstSEIM) </body>
 <H1> Pico CTF/ Automation </H1>
-<body 1> I have been messing about on PICOCTF trying to keep my skills sharp i made a few python programs to help find human readable text with in meta data check it out!!! I did have some help with My Local LLM but the code for the .py is there thank you !! <https://github.com/michaelnoobz/Pico-CTF-Python-Automation> </body>
+<body 1> I have been messing about on PICOCTF trying to keep my skills sharp i made a few python programs to help find human readable text with in meta data check it out!!! I did have some help with My Local LLM but the code for the .py is there thank you !! (https://github.com/michaelnoobz/Pico-CTF-Python-Automation) </body>
 <h2>I have been exprimenting with LLMs </h2>
 <body> dolphin </body>
 <body> mistral </body>
