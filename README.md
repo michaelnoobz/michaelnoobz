@@ -1,34 +1,53 @@
-<h1> Hey My Name is Michael !!</h1>
+<div align="center">
+  <h1>🛡️ Michael Lannen | CSAP | CySA+ | Security+ | Network+</h1>
+  <p><b>Security Engineer & SOC Analyst Aspirant</b></p>
+  <p><i>Architecting security telemetry pipelines and securing infrastructure for the non-profit sector.</i></p>
+</div>
 
-<body> Working on deployment of splunk at a non profit orginization!! </body>
+---
 
-<body> p.s. Currently seeking roles in Security Operations / Incident Response where I can leverage my advanced certifications (CySA+, CSAP) to secure dynamic environments.</body>
+### 👨‍💻 About Me
+I am a dedicated Security Professional with a deep focus on **Security Operations (SecOps)** and **Incident Response**. I specialize in bridging the gap between IT infrastructure and security analytics. I recently leveraged the **Splunk Pledge** to architect a full-scale **Splunk Enterprise SIEM** for a non-profit organization, scaling from 0 to 150 nodes in a single production shift.
 
+---
 
+### 🏗️ Featured Project: Enterprise Splunk Ingestion Pipeline
+**Role:** Lead Security Architect (Hardware Scavenging to Production Deployment)
 
-<h2> Projects!!!!!</h2>
-<h3> Table Top Excerzises templates and ideas for Current role</h3>
-<body> i figured i would share what i do on a quarterly basis  here is the link (https://github.com/michaelnoobz/DRP-Table-Tops)</body>
-<h3> Mock Playbooks </h3>
-<body> work in progress!! </body>
-<h3>  </h3>
-<h3> Powershell Scripting Project  </h3>
-<body> work in progress!! </body>
-<h3> KQL/Splunk Query Library (Scripting Focus) </h3>
-<body> work in progress!! </body>
-<h3>GoPhish</h3>
-<body 1 > the First project i was able to do was create a phishing campaign for my current company. here is the link:(https://github.com/michaelnoobz/Gophish-)</body>
-<h3> Microsoft Azure Honeypot<h3>
-<body 1> This was my attempt of trying to get real world experiance with a SEIM check it out here : (https://github.com/michaelnoobz/MyFirstSEIM) </body>
-<H1> Pico CTF/ Automation </H1>
-<body 1> I have been messing about on PICOCTF trying to keep my skills sharp i made a few python programs to help find human readable text with in meta data check it out!!! I did have some help with My Local LLM but the code for the .py is there thank you !! (https://github.com/michaelnoobz/Pico-CTF-Python-Automation) </body>
-<h2>I have been exprimenting with LLMs </h2>
-<body> dolphin </body>
-<body> mistral </body>
-<body>Large online LLMS like Gemini, Copilot, ChatGPT, etc... </body>
-<h2> Honey Pot!!!</h2>
-<body 1> Im going to be honest, i am limited on funds :(. how ever azure lets you do some stuff for free!!! so i set up a honey pot and left some ports open like ssh and rpd and kept a log using sentinal to log how many people attacked it and where from check it out!!</body>
-  <h2>splunk install and set up!!</h2>
-<body> So just to let yall know ou can use splunk free for like 500mb a day or so i set it up in my home lab but i started looking at options at my current workplace heres are the deets!! as the non profit ogrinization was approved for a soft limit up to 10gb of indexing a day so with my new franken pc ( a pc i threw together deets in the final readme) i was able to get script working by hosting the forwarder on my linux server at work and using ninja one rmm scripting capabilitys with in powershell i was able to successfullly deplay splunk by my self in a enterprise setting! hows that for making my experince!! belive me if i can do this you can too!!  <h2/>
-<h2>Connect with me!!!</body>
-<Body>Linkedin:www.linkedin.com/in/michael-lannen-053588167 </Body>
+I managed the end-to-end architecture and rollout of a **Splunk Enterprise** instance on a custom-built Linux server to monitor a 150-node Windows fleet.
+
+* **Storage Engineering:** Optimized a scrounged hardware array using **Linux LVM**, creating a unified 1TB logical volume for high-velocity data indexing.
+* **Automated Fleet Rollout:** Engineered a **PowerShell deployment wrapper** executed via **NinjaOne RMM**.
+* **Binary Distribution:** Hosted the `.msi` payload via a **Python-based HTTP listener** on an Ubuntu server to minimize WAN impact and ensure wire-speed distribution.
+* **SOC Use Cases:** Configured real-time ingestion for **EventCode 4625** (Brute Force) and **4104** (PowerShell Script Block Logging).
+
+---
+
+### 🛠️ Security Projects & Portfolio
+
+* **[DRP Table-Top Exercises](https://github.com/michaelnoobz/DRP-Table-Tops):** Quarterly templates and Disaster Recovery scenarios designed to improve organizational resilience through executive-level simulations.
+* **[Phishing Simulation Framework (GoPhish)](https://github.com/michaelnoobz/Gophish-):** Designed and executed an internal phishing campaign to measure social engineering risk and drive employee security awareness.
+* **[Azure Sentinel Honeypot](https://github.com/michaelnoobz/MyFirstSEIM):** Built a cloud-native Honeypot using **Microsoft Sentinel**. Utilized **KQL (Kusto Query Language)** to track and visualize global RDP/SSH attack vectors in real-time.
+* **[PicoCTF Python Automation](https://github.com/michaelnoobz/Pico-CTF-Python-Automation):** Developed Python-based forensic tools to automate metadata extraction and pattern recognition during Capture The Flag (CTF) challenges.
+
+---
+
+### 🎓 Professional Certifications (CompTIA Stack)
+* **CompTIA CSAP** (Cybersecurity Analytics Professional)
+* **CompTIA CySA+** (Cybersecurity Analyst)
+* **CompTIA Security+**
+* **CompTIA Network+**
+* **CompTIA ITF+**
+
+---
+
+### 🤖 AI & Automation Research
+Actively researching the intersection of **LLMs and SOC Automation** to accelerate triage times:
+* **Local Models:** Dolphin-Mistral, Mistral-7B (Running via Ollama)
+* **Cloud Models:** Gemini, Copilot, ChatGPT-4
+
+---
+
+### 📬 Connect with me!
+* **LinkedIn:** [linkedin.com/in/michael-lannen-053588167](https://www.linkedin.com/in/michael-lannen-053588167)
+* **Goal:** Seeking a **SOC Analyst** or **Junior Incident Responder** role where I can leverage my "Franken-PC" engineering grit and advanced analytics certifications.
