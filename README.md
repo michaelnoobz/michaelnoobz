@@ -28,5 +28,6 @@
 <body>Large online LLMS like Gemini, Copilot, ChatGPT, etc... </body>
 <h2> Honey Pot!!!</h2>
 <body 1> Im going to be honest, i am limited on funds :(. how ever azure lets you do some stuff for free!!! so i set up a honey pot and left some ports open like ssh and rpd and kept a log using sentinal to log how many people attacked it and where from check it out!!</body>
+<h2> So just to let yall know ou can use splunk free for like 500mb a day or so i set it up in my home lab but i started looking at options at my current workplace heres are the deets!! <h2/>
 <h2>Connect with me!!!</h2>
 <Body>Linkedin:www.linkedin.com/in/michael-lannen-053588167 </Body>
