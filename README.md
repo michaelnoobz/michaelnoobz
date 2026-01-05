@@ -13,6 +13,7 @@ I am a dedicated Security Professional with a deep focus on **Security Operation
 
 ### 🏗️ Featured Project: Enterprise Splunk Ingestion Pipeline
 **Role:** Lead Security Architect (Hardware Scavenging to Production Deployment)
+https://github.com/michaelnoobz/Splunk-homelab-and-work-set-up/blob/main/README.md
 
 I managed the end-to-end architecture and rollout of a **Splunk Enterprise** instance on a custom-built Linux server to monitor a 150-node Windows fleet.
 
